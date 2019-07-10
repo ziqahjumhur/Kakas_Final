@@ -33,7 +33,7 @@ body {
 	width: 100%;
 	height: 50px;
 	line-height: 50px;
-	background-color: blue;
+	background-color: pink;
 	text-align: center;
 }
 
@@ -43,6 +43,6 @@ body {
 	position: absolute;
 	bottom: 0;
 	line-height: 50px;
-	background-color: blue;
+	background-color: pink;
 	text-align: center;
 }
